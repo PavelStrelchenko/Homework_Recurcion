@@ -21,4 +21,4 @@
        
 
 }
-NumbersSeries (1, 1);
+NumbersSeries (1, 10);
